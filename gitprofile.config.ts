@@ -53,30 +53,14 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Michael Zhao',
-    description: '',
+    description: 'Undergrad ECE Student at the University of Texas at Austin',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
+    linkedin: 'https://www.linkedin.com/in/michael-zhao-b369a8293/',
+    medium: 'mz-820',
     website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'michaelzhao820@gmail.com',
   },
   resume: {
     fileUrl:
@@ -97,18 +81,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Hutzper',
+      position: 'Software Engineer Intern',
+      from: 'May 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://hutzper.com/en/about/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Initiative for Law Societies, and Justice',
+      position: 'Data Analyst Intern',
+      from: 'May 2023',
+      to: 'April 2024',
+      companyLink: 'https://sites.utexas.edu/justice/',
     },
   ],
 
